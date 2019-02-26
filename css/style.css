@@ -1,0 +1,41 @@
+body {
+    background-image: url("../images/qbkls.png")
+}
+/* making section title text teal  */
+h2 {
+    color: #4aaaa5;
+}   
+/* making background surroudning name in navbar teal */
+#nameText {
+        background: #4aaaa5;
+}
+
+/* sizing picture in About Me section */
+#profile {
+    width:200px;
+    height: auto;   
+}
+.sectionHeader {
+    margin: 0 auto;
+}
+
+/* Could not figure out how to make the text wrap around my image without doing the float-left  If there's an easy way to do it without CSS, please let me know */
+.profile_pic {
+    width: 15rem;
+    height: 15rem;
+    min-width: 150px;
+    min-height: 150px;
+    float:left;
+}
+
+/* making card titles color scheme match page */
+.card-body {
+    background: #4aaaa5;
+    color: white;
+}
+
+/* setting min width to stop form section from shrinking to an unusable size */
+.container{
+    min-width: 300px;
+}
+
