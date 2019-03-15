@@ -3,11 +3,11 @@ body {
 }
 /* making section title text teal  */
 h2 {
-    color: #4aaaa5;
+    color: #4bad71;
 }   
 /* making background surroudning name in navbar teal */
 #nameText {
-        background: #4aaaa5;
+        background: #4bad71;
 }
 
 /* sizing picture in About Me section */
@@ -30,7 +30,7 @@ h2 {
 
 /* making card titles color scheme match page */
 .card-body {
-    background: #4aaaa5;
+    background: rgb(106, 106, 119);
     color: white;
 }
 
@@ -42,7 +42,7 @@ h2 {
 .custom-card{
     color:inherit;
     text-decoration: none;
-    height: 130px;
-    width: 130px;
+    min-height: 130px;
+    min-width: 130px;
 }
 
