@@ -21,10 +21,10 @@ h2 {
 
 /* Could not figure out how to make the text wrap around my image without doing the float-left  If there's an easy way to do it without CSS, please let me know */
 .profile_pic {
-    width: 15rem;
-    height: 15rem;
+    width: 12rem;
+    height: auto;
     min-width: 150px;
-    min-height: 150px;
+    min-height: auto;
     float:left;
 }
 
